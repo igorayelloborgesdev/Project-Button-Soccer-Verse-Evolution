@@ -1,0 +1,100 @@
+Project Button Soccer Verse Evolution
+
+.Match
+.Tournament
+.Season
+
+.Eras
+..1958-1970
+...National
+....Europe
+....South America
+.....Country
+......States/ District
+....North/ Central America
+....Asia/ Oceania
+....Africa
+...Club
+....Europe
+....South America
+
+..1971-1978
+...National
+....Europe
+....South America
+....North/ Central America
+....Asia/ Oceania
+....Africa
+...Club
+....Europe
+....South America
+
+..1979-1990
+...National
+....Europe
+....South America
+....North/ Central America
+....Asia/ Oceania
+....Africa
+...Club
+....Europe
+....South America
+
+..1991-2002
+...National
+....Europe
+....South America
+....North/ Central America
+....Asia/ Oceania
+....Africa
+...Club
+....Europe
+....South America
+
+..2003-2010
+...National
+....Europe
+....South America
+....North/ Central America
+....Asia/ Oceania
+....Africa
+...Club
+....Europe
+....South America
+....North/ Central America
+....Asia/ Oceania
+....Africa
+
+..2011-2022
+...National
+....Europe
+....South America
+....North/ Central America
+....Asia/ Oceania
+....Africa
+
+...Club
+....Europe
+....South America
+....North/ Central America
+....Asia/ Oceania
+....Africa
+
+---------------------------------------------------------------------------------------------------
+
+.botão atingir bola em local especifico
+
+.botão jogar a bola para o alvo
+.botão desviar de oponente
+
+.botão desviar de oponente 1
+.botão desviar de oponente 2
+.botão desviar de oponente 3
+.botão desviar de oponente 4
+.botão desviar de oponente 5
+.botão desviar de oponente 6
+.botão desviar de oponente 7
+.botão desviar de oponente 8
+.botão desviar de oponente 9
+.botão desviar de oponente 10
+.botão chutar para o gol
