@@ -1,0 +1,37 @@
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.deps.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.runtimeconfig.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.csproj.AssemblyReference.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.AssemblyInfoInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.AssemblyInfo.cs
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.csproj.CoreCompileInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\refint\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.genruntimeconfig.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\ref\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Newtonsoft.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.sourcelink.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pac.39533F19.Up2Date
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.deps.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.runtimeconfig.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\Debug\Newtonsoft.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.csproj.AssemblyReference.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.AssemblyInfoInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.AssemblyInfo.cs
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.csproj.CoreCompileInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pac.39533F19.Up2Date
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\refint\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.genruntimeconfig.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\ref\Game Pack Start Project Godot.dll

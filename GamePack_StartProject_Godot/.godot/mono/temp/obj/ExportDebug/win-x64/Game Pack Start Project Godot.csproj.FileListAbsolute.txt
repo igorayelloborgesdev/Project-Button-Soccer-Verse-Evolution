@@ -1,0 +1,399 @@
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.deps.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.runtimeconfig.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\GodotSharp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Newtonsoft.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.CSharp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.Core.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Registry.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.AppContext.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Buffers.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Concurrent.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Immutable.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.NonGeneric.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Specialized.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Annotations.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.TypeConverter.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Configuration.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Console.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Core.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.Common.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.DataSetExtensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Contracts.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Debug.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Process.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.StackTrace.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tools.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TraceSource.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tracing.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Dynamic.Runtime.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Formats.Asn1.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Formats.Tar.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Calendars.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Brotli.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.FileSystem.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.ZipFile.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Watcher.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.IsolatedStorage.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.MemoryMappedFiles.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.AccessControl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Expressions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Parallel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Queryable.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Memory.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.HttpListener.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Mail.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NameResolution.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NetworkInformation.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Ping.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Quic.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Requests.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Security.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.ServicePoint.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Sockets.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebClient.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebHeaderCollection.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebProxy.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.Client.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.Vectors.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ObjectModel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.CoreLib.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.DataContractSerialization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Uri.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.Linq.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.DispatchProxy.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Metadata.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.TypeExtensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Reader.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.ResourceManager.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Writer.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Handles.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Intrinsics.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Loader.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Numerics.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Xml.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.AccessControl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Claims.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Cng.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Csp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Encoding.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.Windows.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.SecureString.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceModel.Web.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceProcess.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.CodePages.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encodings.Web.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.RegularExpressions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Channels.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Overlapped.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Parallel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Thread.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.ThreadPool.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Timer.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.Local.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ValueTuple.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.HttpUtility.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Windows.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Linq.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.ReaderWriter.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Serialization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XDocument.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.XDocument.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlDocument.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlSerializer.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\WindowsBase.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscorlib.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\netstandard.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Native.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\clretwrc.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\clrgc.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\clrjit.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\coreclr.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\createdump.exe
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\hostfxr.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\hostpolicy.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore_amd64_amd64_8.0.1825.31117.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscordbi.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscorrc.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\msquic.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.csproj.AssemblyReference.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.AssemblyInfoInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.AssemblyInfo.cs
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.csproj.CoreCompileInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.sourcelink.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pac.39533F19.Up2Date
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\refint\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.genruntimeconfig.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\ref\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.deps.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.runtimeconfig.json
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\GodotSharp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Newtonsoft.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.CSharp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.Core.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Registry.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.AppContext.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Buffers.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Concurrent.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Immutable.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.NonGeneric.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Specialized.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Annotations.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.TypeConverter.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Configuration.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Console.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Core.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.Common.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.DataSetExtensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Contracts.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Debug.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Process.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.StackTrace.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tools.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TraceSource.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tracing.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Dynamic.Runtime.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Formats.Asn1.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Formats.Tar.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Calendars.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Brotli.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.FileSystem.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.ZipFile.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Watcher.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.IsolatedStorage.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.MemoryMappedFiles.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.AccessControl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Expressions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Parallel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Queryable.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Memory.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.HttpListener.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Mail.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NameResolution.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NetworkInformation.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Ping.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Quic.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Requests.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Security.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.ServicePoint.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Sockets.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebClient.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebHeaderCollection.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebProxy.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.Client.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.Vectors.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ObjectModel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.CoreLib.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.DataContractSerialization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Uri.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.Linq.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.DispatchProxy.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Metadata.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.TypeExtensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Reader.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.ResourceManager.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Writer.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Handles.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Intrinsics.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Loader.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Numerics.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Xml.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.AccessControl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Claims.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Cng.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Csp.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Encoding.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Primitives.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.Windows.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.SecureString.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceModel.Web.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceProcess.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.CodePages.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encodings.Web.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Json.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.RegularExpressions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Channels.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Overlapped.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Extensions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Parallel.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Thread.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.ThreadPool.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Timer.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.Local.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.ValueTuple.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.HttpUtility.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Windows.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Linq.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.ReaderWriter.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Serialization.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XDocument.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.XDocument.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlDocument.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlSerializer.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\WindowsBase.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscorlib.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\netstandard.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Native.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\clretwrc.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\clrgc.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\clrjit.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\coreclr.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\createdump.exe
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\hostfxr.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\hostpolicy.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore_amd64_amd64_8.0.1825.31117.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscordbi.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\mscorrc.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\bin\ExportDebug\win-x64\msquic.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.csproj.AssemblyReference.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.AssemblyInfoInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.AssemblyInfo.cs
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.csproj.CoreCompileInputs.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pac.39533F19.Up2Date
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\refint\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.pdb
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\Game Pack Start Project Godot.genruntimeconfig.cache
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\ExportDebug\win-x64\ref\Game Pack Start Project Godot.dll

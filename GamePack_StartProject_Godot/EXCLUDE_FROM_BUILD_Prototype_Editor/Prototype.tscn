@@ -1,0 +1,100 @@
+[gd_scene load_steps=13 format=3 uid="uid://nu3si3i7k1ti"]
+
+[ext_resource type="Script" uid="uid://bti87xvxsk6r8" path="res://EXCLUDE_FROM_BUILD_Prototype_Editor/PrototypeView.cs" id="1_d58nr"]
+[ext_resource type="PackedScene" uid="uid://chhce8x1js8ia" path="res://Prefab/ButtonPlayer.tscn" id="2_dmoh0"]
+[ext_resource type="PackedScene" uid="uid://dce4afh1lcbnt" path="res://Prefab/Ball.tscn" id="3_23aoo"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_jj77p"]
+rough = true
+absorbent = true
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_jj77p"]
+radius = 0.3
+
+[sub_resource type="SphereMesh" id="SphereMesh_d58nr"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_d58nr"]
+friction = 0.8
+rough = true
+absorbent = true
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_jj77p"]
+height = 0.15
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_d58nr"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_d58nr"]
+size = Vector3(30, 1, 30)
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_dmoh0"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_jj77p"]
+
+[node name="Prototype" type="Node3D"]
+script = ExtResource("1_d58nr")
+
+[node name="Ball_" type="RigidBody3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.8571, 0.336184, 1.36165)
+visible = false
+mass = 0.01
+physics_material_override = SubResource("PhysicsMaterial_jj77p")
+gravity_scale = 0.2
+linear_damp = 0.4
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Ball_"]
+shape = SubResource("SphereShape3D_jj77p")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Ball_"]
+transform = Transform3D(0.6, 0, 0, 0, 0.6, 0, 0, 0, 0.6, 0, 0, 0)
+mesh = SubResource("SphereMesh_d58nr")
+
+[node name="Button_" type="RigidBody3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.2179, 0.0861057, 2.11395)
+visible = false
+mass = 0.4
+physics_material_override = SubResource("PhysicsMaterial_d58nr")
+lock_rotation = true
+linear_damp_mode = 1
+linear_damp = 1.0
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Button_"]
+shape = SubResource("CylinderShape3D_jj77p")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Button_"]
+transform = Transform3D(1, 0, 0, 0, 0.075, 0, 0, 0, 1, 0, 0, 0)
+mesh = SubResource("CylinderMesh_d58nr")
+
+[node name="Field" type="RigidBody3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.740363, -44.6379)
+lock_rotation = true
+freeze = true
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Field"]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, -5.72892, 0)
+shape = SubResource("BoxShape3D_d58nr")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Field"]
+transform = Transform3D(148.535, 0, 0, 0, 148.535, 0, 0, 0, 148.535, 0, -0.74172, 0)
+mesh = SubResource("PlaneMesh_dmoh0")
+
+[node name="REF" type="MeshInstance3D" parent="."]
+transform = Transform3D(2.125, 0, 0, 0, 2.125, 0, 0, 0, 2.125, -0.0235534, 0, -9.82084)
+visible = false
+mesh = SubResource("BoxMesh_jj77p")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.322034, -0.686254, 0.652188, -4.6121e-08, 0.688886, 0.72487, -0.946728, -0.233433, 0.221845, 41.7781, 17.9567, -13.1237)
+fov = 105.1
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 55.1825, 3.72946)
+light_energy = 5.17
+shadow_enabled = true
+omni_range = 266.642
+omni_attenuation = 0.403
+
+[node name="ButtonPlayer" parent="." instance=ExtResource("2_dmoh0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 34.9978)
+
+[node name="Ball" parent="." instance=ExtResource("3_23aoo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.251856, 32.5603)

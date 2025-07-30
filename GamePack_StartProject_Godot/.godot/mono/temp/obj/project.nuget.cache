@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3kw4EdjGfY=",
+  "success": true,
+  "projectFilePath": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\Game Pack Start Project Godot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igor8\\.nuget\\packages\\godot.sourcegenerators\\4.4.1\\godot.sourcegenerators.4.4.1.nupkg.sha512",
+    "C:\\Users\\igor8\\.nuget\\packages\\godotsharp\\4.4.1\\godotsharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\igor8\\.nuget\\packages\\godotsharpeditor\\4.4.1\\godotsharpeditor.4.4.1.nupkg.sha512",
+    "C:\\Users\\igor8\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
