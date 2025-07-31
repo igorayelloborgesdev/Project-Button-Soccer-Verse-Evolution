@@ -15,10 +15,17 @@ public partial class PrototypeView : Node
     public override void _Ready()
     {        
         InitObjects();
+
+        for (int x = 5; x <= 55; x += 1)
+        {
+            GD.Print($"X = {x}, Y estimado = {EstimarY(x)}");
+        }
     }
     public override void _Process(double delta)
     {
-        GetAngleBetweenButtonAndBall();
+        //GetAngleBetweenButtonAndBall();
+
+        //GetDistance();
     }
     public override void _Input(InputEvent @event)
     {
@@ -30,9 +37,7 @@ public partial class PrototypeView : Node
     {
         objRef = this.GetNode<MeshInstance3D>("REF");
         ball = this.GetNode<RigidBody3D>("Ball");
-        button = this.GetNode<RigidBody3D>("ButtonPlayer");
-
-        GetDistance();
+        button = this.GetNode<RigidBody3D>("ButtonPlayer");        
     }
     private void GetDistance()
     {
@@ -64,12 +69,26 @@ public partial class PrototypeView : Node
         if (@event is InputEventKey keyEvent && keyEvent.Pressed)
         {
             if (keyEvent.Keycode == Key.Enter)
-            {                
+            {
+                SetobjRefPosition();
                 var impulse = (objRef.GlobalPosition - button.GlobalPosition);
                 impulse = new Vector3(impulse.X, button.GlobalPosition.Y, impulse.Z);
-                button.ApplyImpulse(impulse);
+                button.ApplyImpulse(impulse);                
             }
         }
+    }
+
+    private void SetobjRefPosition()
+    {
+        objRef.GlobalPosition = new Vector3(button.GlobalPosition.X, objRef.GlobalPosition.Y, button.GlobalPosition.Z - 55.0f);
+    }
+    double EstimarY(double x)
+    {
+        double a = 66859.63;
+        double b = 33.3838963;
+        double c = 1543.57549;
+        double d = -66843.5257;
+        return a * Math.Exp(-Math.Pow(x - b, 2) / (2 * Math.Pow(c, 2))) + d;
     }
 
     #endregion

@@ -35,3 +35,4 @@ D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Pro
 D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.pdb
 D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.genruntimeconfig.cache
 D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\ref\Game Pack Start Project Godot.dll
+D:\IGOR\IGOR\IgorAyelloBorges\PROJETOS\Project Button Soccer Verse Evolution\Project-Button-Soccer-Verse-Evolution\GamePack_StartProject_Godot\.godot\mono\temp\obj\Debug\Game Pack Start Project Godot.sourcelink.json
