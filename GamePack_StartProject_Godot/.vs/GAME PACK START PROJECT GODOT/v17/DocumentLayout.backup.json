@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|d:\\igor\\igor\\igorayelloborges\\projetos\\project button soccer verse evolution\\project-button-soccer-verse-evolution\\gamepack_startproject_godot\\exclude_from_build_prototype_editor\\prototypeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|solutionrelative:exclude_from_build_prototype_editor\\prototypeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|d:\\igor\\igor\\igorayelloborges\\projetos\\project button soccer verse evolution\\project-button-soccer-verse-evolution\\gamepack_startproject_godot\\exclude_from_build_prototype_editor\\xtoycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|solutionrelative:exclude_from_build_prototype_editor\\xtoycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,24 @@
               "RelativeDocumentMoniker": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeView.cs",
               "ToolTip": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeView.cs",
               "RelativeToolTip": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeView.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAIA7wBsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T00:18:43.64Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XtoYCalculator.cs",
+              "DocumentMoniker": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\XtoYCalculator.cs",
+              "RelativeDocumentMoniker": "EXCLUDE_FROM_BUILD_Prototype_Editor\\XtoYCalculator.cs",
+              "ToolTip": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\XtoYCalculator.cs",
+              "RelativeToolTip": "EXCLUDE_FROM_BUILD_Prototype_Editor\\XtoYCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T02:11:36.491Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
