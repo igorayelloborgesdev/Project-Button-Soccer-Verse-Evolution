@@ -82,7 +82,7 @@ Project Button Soccer Verse Evolution
 
 ---------------------------------------------------------------------------------------------------
 
-.botão atingir bola em local especifico
+.botão atingir bola em local especifico<-
 ..Relação posição/ impulso
 
 .botão jogar a bola para o alvo
@@ -100,4 +100,17 @@ Project Button Soccer Verse Evolution
 .botão desviar de oponente 10
 .botão chutar para o gol
 
-
+.AI goleiro
+.6 toques
+.chute para o gol
+.Kickoff
+.lateral
+.tiro de meta
+.escanteio
+.falta
+.penalti
+.não tocar na bola
+.Player ataque
+.Player defesa
+.Selecionar botão
+..Selecionar câmera

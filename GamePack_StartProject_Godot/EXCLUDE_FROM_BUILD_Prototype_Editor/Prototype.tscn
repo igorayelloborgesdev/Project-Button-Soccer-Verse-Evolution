@@ -77,12 +77,8 @@ shape = SubResource("BoxShape3D_d58nr")
 transform = Transform3D(148.535, 0, 0, 0, 148.535, 0, 0, 0, 148.535, 0, -0.74172, 0)
 mesh = SubResource("PlaneMesh_dmoh0")
 
-[node name="REF" type="MeshInstance3D" parent="."]
-transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0.077, -6.06376)
-mesh = SubResource("BoxMesh_jj77p")
-
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(0.322034, -0.686254, 0.652188, -4.6121e-08, 0.688886, 0.72487, -0.946728, -0.233433, 0.221845, 41.7781, 17.9567, -13.1237)
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0.528362, 11.5533, 2.50854)
 fov = 105.1
 
 [node name="OmniLight3D" type="OmniLight3D" parent="."]
@@ -95,4 +91,16 @@ omni_attenuation = 0.403
 [node name="ButtonPlayer" parent="." instance=ExtResource("2_dmoh0")]
 
 [node name="Ball" parent="." instance=ExtResource("3_23aoo")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.252, -2.32038)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.85723, 0.338, 2.54756)
+
+[node name="REF" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.5, 0, 0, 0, 1, 0, 0, 0, 0.5, -0.133987, 0.077, -7.9846)
+mesh = SubResource("BoxMesh_jj77p")
+
+[node name="Target" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.545135, 0.077, 3.86495)
+mesh = SubResource("BoxMesh_jj77p")
+
+[node name="TargetHit" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.75, 0, 0, 0, 1, 0, 0, 0, 0.75, -15.98, 0.077, -0.663735)
+mesh = SubResource("BoxMesh_jj77p")
