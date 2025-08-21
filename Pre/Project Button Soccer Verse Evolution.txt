@@ -82,8 +82,9 @@ Project Button Soccer Verse Evolution
 
 ---------------------------------------------------------------------------------------------------
 
-.botão atingir bola em local especifico<-
-..Relação posição/ impulso
+..Relação posição/ impulso<-
+
+.Desgin Pattern
 
 .botão jogar a bola para o alvo
 .botão desviar de oponente

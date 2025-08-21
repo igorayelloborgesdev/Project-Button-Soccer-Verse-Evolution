@@ -19,6 +19,7 @@ public partial class PrototypeView : Node
     private double index = 5.0;
     private Vector3 newObjImp = new Vector3();
     private Vector3 objImp = new Vector3();
+    private ButtonAIPrototypeModel buttonAIPrototypeModel = new ButtonAIPrototypeModel();
     #endregion
     #region Constants
     private const float targetBallDiff = 0.28f;
@@ -28,42 +29,53 @@ public partial class PrototypeView : Node
     public override void _Ready()
     {        
         InitObjects();
-        
-        var hypotenuseTargetBall = GetDistance(new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z), new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z)) + targetBallDiff + targetPlayerDiff;
-        var angleRadiansTargetBall = GetAngleBetweenTwoObjects(new Vector3(target.GlobalPosition.X, target.GlobalPosition.Y, target.GlobalPosition.Z),
-                                                        new Vector3(ball.GlobalPosition.X, ball.GlobalPosition.Y, ball.GlobalPosition.Z));
-        float catOpoTargetBall = ((float)hypotenuseTargetBall * Mathf.Sin(angleRadiansTargetBall)) * 1.0f;
-        float catAdjTargetBall = ((float)hypotenuseTargetBall * Mathf.Cos(angleRadiansTargetBall)) * 1.0f;
-        targetHit.GlobalPosition = new Vector3(target.GlobalPosition.X + catAdjTargetBall, target.GlobalPosition.Y, target.GlobalPosition.Z + catOpoTargetBall);
+        DefineButtonAIPrototypeModel();
 
-        //--------------------------------------------
-        var distTargetBall = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));
-        var impTargetBall = XtoYCalculator.GetY(distTargetBall);//<-Forca botao
-        var angleRadiansTargetBallFinal = GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
-                                                                    new Vector3(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Y, targetHit.GlobalPosition.Z));
-        float hypotenuseFinal = (float)impTargetBall;
-        float catOpoFinal = (hypotenuseFinal * Mathf.Sin(angleRadiansTargetBallFinal)) * 1.0f;
-        float catAdjFinal = (hypotenuseFinal * Mathf.Cos(angleRadiansTargetBallFinal)) * 1.0f;
-        objRef.GlobalPosition = new Vector3(button.GlobalPosition.X + catAdjFinal, objRef.GlobalPosition.Y, button.GlobalPosition.Z + catOpoFinal);
-        newObjImp = objRef.GlobalPosition;
-        objImp = new Vector3(button.GlobalPosition.X, objRef.GlobalPosition.Y, button.GlobalPosition.Z);
-
-        var isNormalMove = DefineNormalPathMoveBasedOnAngleDifference(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
-                            new Vector3(target.GlobalPosition.X, target.GlobalPosition.Y, target.GlobalPosition.Z),
-                            new Vector3(ball.GlobalPosition.X, ball.GlobalPosition.Y, ball.GlobalPosition.Z));//<-PAREI AQUI
-
-
-        if (isNormalMove)
+        if (buttonAIPrototypeModel.isNormalMove)
         {
+            var hypotenuseTargetBall = GetDistance(new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z), new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z)) + targetBallDiff + targetPlayerDiff;
+            var angleRadiansTargetBall = GetAngleBetweenTwoObjects(new Vector3(target.GlobalPosition.X, target.GlobalPosition.Y, target.GlobalPosition.Z),
+                                                            new Vector3(ball.GlobalPosition.X, ball.GlobalPosition.Y, ball.GlobalPosition.Z));
+            float catOpoTargetBall = ((float)hypotenuseTargetBall * Mathf.Sin(angleRadiansTargetBall)) * 1.0f;
+            float catAdjTargetBall = ((float)hypotenuseTargetBall * Mathf.Cos(angleRadiansTargetBall)) * 1.0f;
+            targetHit.GlobalPosition = new Vector3(target.GlobalPosition.X + catAdjTargetBall, target.GlobalPosition.Y, target.GlobalPosition.Z + catOpoTargetBall);
+            var distTargetBall = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));
+
+            var hypotenusePower = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));//<-PAREI AQUI
+            var impTargetBall = XtoYCalculator.GetY(hypotenusePower);
+            GD.Print(impTargetBall);//<-
+
+            var angleRadiansTargetBallFinal = GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
+                                                                        new Vector3(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Y, targetHit.GlobalPosition.Z));
+            float hypotenuseFinal = (float)impTargetBall;
+            float catOpoFinal = (hypotenuseFinal * Mathf.Sin(angleRadiansTargetBallFinal)) * 1.0f;
+            float catAdjFinal = (hypotenuseFinal * Mathf.Cos(angleRadiansTargetBallFinal)) * 1.0f;
+            objRef.GlobalPosition = new Vector3(button.GlobalPosition.X + catAdjFinal, objRef.GlobalPosition.Y, button.GlobalPosition.Z + catOpoFinal);
+            newObjImp = objRef.GlobalPosition;
+            objImp = new Vector3(button.GlobalPosition.X, objRef.GlobalPosition.Y, button.GlobalPosition.Z);
+        }
+        else
+        {
+            GetQuadBallPosition();
+            var hypotenuseTargetBall = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));
+            var angleRadiansTargetBall = GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
+                                                            new Vector3(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Y, targetHit.GlobalPosition.Z));
+            var distTargetBall = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));
+            var impTargetBall = XtoYCalculator.GetY(distTargetBall);//<-Forca botao
+            float hypotenuseFinal = (float)impTargetBall;
+            float catOpoFinal = (hypotenuseFinal * Mathf.Sin(angleRadiansTargetBall)) * 1.0f;
+            float catAdjFinal = (hypotenuseFinal * Mathf.Cos(angleRadiansTargetBall)) * 1.0f;
+            objRef.GlobalPosition = new Vector3(button.GlobalPosition.X + catAdjFinal, objRef.GlobalPosition.Y, button.GlobalPosition.Z + catOpoFinal);
+            newObjImp = objRef.GlobalPosition;
+            objImp = new Vector3(button.GlobalPosition.X, objRef.GlobalPosition.Y, button.GlobalPosition.Z);
+        }
+
             
-        }
-        else 
-        { 
-        
-        }
-        
+
+
 
         
+
 
         //GD.Print("---------------------");
         //GD.Print(GetQuadrant(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z)));
@@ -188,19 +200,101 @@ public partial class PrototypeView : Node
     {        
         return Mathf.Abs(Mathf.RadToDeg(angleRadians) - 90.0f);
     }
-
     private bool DefineNormalPathMoveBasedOnAngleDifference(Vector3 buttonObj, Vector3 targetObj, Vector3 ballObj)
     {
         var angleButtonTarget = GetAngle90Abs(GetAngleBetweenTwoObjects(buttonObj, targetObj));
         var angleButtonBall = GetAngle90Abs(GetAngleBetweenTwoObjects(buttonObj, ballObj));
         var angleDiff = Mathf.Abs(angleButtonTarget - angleButtonBall);
-
-        GD.Print(angleDiff);
-        GD.Print(angleDiff <= 25.0f);
-
         return angleDiff <= 25.0f;
     }
+    private void DefineButtonAIPrototypeModel()
+    {
+        var isNormalPathMoveBasedOnAngleDifference = DefineNormalPathMoveBasedOnAngleDifference(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
+                            new Vector3(target.GlobalPosition.X, target.GlobalPosition.Y, target.GlobalPosition.Z),
+                            new Vector3(ball.GlobalPosition.X, ball.GlobalPosition.Y, ball.GlobalPosition.Z));
+        buttonAIPrototypeModel.isNormalPathMoveBasedOnAngleDifference = isNormalPathMoveBasedOnAngleDifference;
 
+        var targetQuadrant = GetQuadrant(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z));
+        var ballQuadrant = GetQuadrant(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z));
+        buttonAIPrototypeModel.targetQuadrant = targetQuadrant;
+        buttonAIPrototypeModel.ballQuadrant = ballQuadrant;
+        buttonAIPrototypeModel.isSameQuadrant = targetQuadrant == ballQuadrant;
+
+        var distButtonTarget = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z));
+        var distButtonBall = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z));
+        buttonAIPrototypeModel.distButtonTarget = distButtonTarget;
+        buttonAIPrototypeModel.distButtonBall = distButtonBall;
+        buttonAIPrototypeModel.isTargetDistanceGreaterThanBallDistance = distButtonTarget > distButtonBall;
+
+        var angleButtonTarget = GetAngle90Abs(
+                GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
+                new Vector3(target.GlobalPosition.X, target.GlobalPosition.Y, target.GlobalPosition.Z))
+                );
+        var angleButtonBall = GetAngle90Abs(
+                GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
+                new Vector3(ball.GlobalPosition.X, ball.GlobalPosition.Y, ball.GlobalPosition.Z))
+                );
+        var angleDiff = angleButtonTarget - angleButtonBall;
+        buttonAIPrototypeModel.angleButtonTarget = angleButtonTarget;
+        buttonAIPrototypeModel.angleButtonBall = angleButtonBall;
+        buttonAIPrototypeModel.angleDiff = angleDiff;
+
+        buttonAIPrototypeModel.isNormalMove = (buttonAIPrototypeModel.isNormalPathMoveBasedOnAngleDifference && 
+                                               buttonAIPrototypeModel.isSameQuadrant && 
+                                               buttonAIPrototypeModel.isTargetDistanceGreaterThanBallDistance);        
+    }
+    private void GetQuadBallPosition()
+    {
+        int ballQuad = 0;
+        if (buttonAIPrototypeModel.ballQuadrant == 1)
+        {
+            ballQuad = GetQuadrant(new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z));
+            if (ballQuad == 1 || ballQuad == 4)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X - (targetBallDiff + targetPlayerDiff), target.GlobalPosition.Y, ball.GlobalPosition.Z);
+            }
+            else if (ballQuad == 2 || ballQuad == 3)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X, target.GlobalPosition.Y, ball.GlobalPosition.Z + (targetBallDiff + targetPlayerDiff));
+            }
+        }
+        else if (buttonAIPrototypeModel.ballQuadrant == 2)
+        {
+            ballQuad = GetQuadrant(new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z));
+            if (ballQuad == 1 || ballQuad == 4)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X, target.GlobalPosition.Y, ball.GlobalPosition.Z + (targetBallDiff + targetPlayerDiff));
+            }
+            else if (ballQuad == 2 || ballQuad == 3)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X + (targetBallDiff + targetPlayerDiff), target.GlobalPosition.Y, ball.GlobalPosition.Z);
+            }
+        }
+        else if (buttonAIPrototypeModel.ballQuadrant == 3)
+        {
+            ballQuad = GetQuadrant(new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z));
+            if (ballQuad == 1 || ballQuad == 4)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X, target.GlobalPosition.Y, ball.GlobalPosition.Z - (targetBallDiff + targetPlayerDiff));
+            }
+            else if (ballQuad == 2 || ballQuad == 3)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X + (targetBallDiff + targetPlayerDiff), target.GlobalPosition.Y, ball.GlobalPosition.Z);
+            }
+        }
+        else if (buttonAIPrototypeModel.ballQuadrant == 4)
+        {
+            ballQuad = GetQuadrant(new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z));
+            if (ballQuad == 1 || ballQuad == 4)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X - (targetBallDiff + targetPlayerDiff), target.GlobalPosition.Y, ball.GlobalPosition.Z);
+            }
+            else if (ballQuad == 2 || ballQuad == 3)
+            {
+                targetHit.GlobalPosition = new Vector3(ball.GlobalPosition.X, target.GlobalPosition.Y, ball.GlobalPosition.Z - (targetBallDiff + targetPlayerDiff));
+            }
+        }        
+    }
     #endregion
     #region Events
     private void MoveButtonEvent(InputEvent @event)
