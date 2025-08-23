@@ -39,12 +39,10 @@ public partial class PrototypeView : Node
             float catOpoTargetBall = ((float)hypotenuseTargetBall * Mathf.Sin(angleRadiansTargetBall)) * 1.0f;
             float catAdjTargetBall = ((float)hypotenuseTargetBall * Mathf.Cos(angleRadiansTargetBall)) * 1.0f;
             targetHit.GlobalPosition = new Vector3(target.GlobalPosition.X + catAdjTargetBall, target.GlobalPosition.Y, target.GlobalPosition.Z + catOpoTargetBall);
-            var distTargetBall = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));
-
-            var hypotenusePower = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));//<-PAREI AQUI
+            
+            var hypotenusePower = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z)) +
+                                  (GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z)) * 0.5f);
             var impTargetBall = XtoYCalculator.GetY(hypotenusePower);
-            GD.Print(impTargetBall);//<-
-
             var angleRadiansTargetBallFinal = GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
                                                                         new Vector3(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Y, targetHit.GlobalPosition.Z));
             float hypotenuseFinal = (float)impTargetBall;
@@ -61,7 +59,7 @@ public partial class PrototypeView : Node
             var angleRadiansTargetBall = GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
                                                             new Vector3(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Y, targetHit.GlobalPosition.Z));
             var distTargetBall = GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(targetHit.GlobalPosition.X, targetHit.GlobalPosition.Z));
-            var impTargetBall = XtoYCalculator.GetY(distTargetBall);//<-Forca botao
+            var impTargetBall = XtoYCalculator.GetY(distTargetBall);
             float hypotenuseFinal = (float)impTargetBall;
             float catOpoFinal = (hypotenuseFinal * Mathf.Sin(angleRadiansTargetBall)) * 1.0f;
             float catAdjFinal = (hypotenuseFinal * Mathf.Cos(angleRadiansTargetBall)) * 1.0f;
@@ -69,35 +67,6 @@ public partial class PrototypeView : Node
             newObjImp = objRef.GlobalPosition;
             objImp = new Vector3(button.GlobalPosition.X, objRef.GlobalPosition.Y, button.GlobalPosition.Z);
         }
-
-            
-
-
-
-        
-
-
-        //GD.Print("---------------------");
-        //GD.Print(GetQuadrant(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z)));
-        //GD.Print(GetQuadrant(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z)));
-        //GD.Print("@@@@@@@@@@@@@@@@@@@@@");
-        //GD.Print(GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(target.GlobalPosition.X, target.GlobalPosition.Z)));
-        //GD.Print(GetDistance(new Vector2(button.GlobalPosition.X, button.GlobalPosition.Z), new Vector2(ball.GlobalPosition.X, ball.GlobalPosition.Z)));
-        //GD.Print("####################");
-        //var angleButtonTarget = GetAngle90Abs(
-        //        GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
-        //        new Vector3(target.GlobalPosition.X, target.GlobalPosition.Y, target.GlobalPosition.Z))
-        //        );
-        //var angleButtonBall = GetAngle90Abs(
-        //        GetAngleBetweenTwoObjects(new Vector3(button.GlobalPosition.X, button.GlobalPosition.Y, button.GlobalPosition.Z),
-        //        new Vector3(ball.GlobalPosition.X, ball.GlobalPosition.Y, ball.GlobalPosition.Z))
-        //        );
-        //var angleDiff = angleButtonTarget - angleButtonBall;
-        //GD.Print(angleButtonTarget);
-        //GD.Print(angleButtonBall);
-        //GD.Print(Mathf.Abs(angleDiff));
-        //Max angle 25.0f
-
     }
     public override void _Process(double delta)
     {
@@ -298,11 +267,11 @@ public partial class PrototypeView : Node
     #endregion
     #region Events
     private void MoveButtonEvent(InputEvent @event)
-    {
+    {        
         if (@event is InputEventKey keyEvent && keyEvent.Pressed)
-        {
+        {     
             if (keyEvent.Keycode == Key.Enter)
-            {
+            {         
                 MoveButton();
             }
         }
