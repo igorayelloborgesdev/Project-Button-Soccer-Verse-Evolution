@@ -1,6 +1,6 @@
 [gd_scene load_steps=13 format=3 uid="uid://nu3si3i7k1ti"]
 
-[ext_resource type="Script" uid="uid://bti87xvxsk6r8" path="res://EXCLUDE_FROM_BUILD_Prototype_Editor/PrototypeView.cs" id="1_23aoo"]
+[ext_resource type="Script" uid="uid://b1d82rn0kr48i" path="res://EXCLUDE_FROM_BUILD_Prototype_Editor/PrototypeViewV2.cs" id="1_23aoo"]
 [ext_resource type="PackedScene" uid="uid://chhce8x1js8ia" path="res://Prefab/ButtonPlayer.tscn" id="2_dmoh0"]
 [ext_resource type="PackedScene" uid="uid://dce4afh1lcbnt" path="res://Prefab/Ball.tscn" id="3_23aoo"]
 
@@ -98,7 +98,7 @@ transform = Transform3D(0.5, 0, 0, 0, 1, 0, 0, 0, 0.5, 0, 0.077, -12.1232)
 mesh = SubResource("BoxMesh_jj77p")
 
 [node name="Target" type="MeshInstance3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -31.2948, 0.077, -18.7875)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.62466, 0.077, -3.32761)
 mesh = SubResource("BoxMesh_jj77p")
 
 [node name="TargetHit" type="MeshInstance3D" parent="."]

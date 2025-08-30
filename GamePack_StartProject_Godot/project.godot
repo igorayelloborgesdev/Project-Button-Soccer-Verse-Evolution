@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Project Button Soccer Verse Evolution"
-run/main_scene="res://Scenes/SplashScene.tscn"
+run/main_scene="uid://nu3si3i7k1ti"
 config/features=PackedStringArray("4.4", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 

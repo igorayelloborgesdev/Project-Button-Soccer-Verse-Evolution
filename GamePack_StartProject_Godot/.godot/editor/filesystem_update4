@@ -1,9 +1,11 @@
-res://EXCLUDE_FROM_BUILD_Prototype_Editor/Prototype.tscn
-res://Scenes/SplashScene.tscn
-res://Scenes/MainScene.tscn
-res://Prefab/ButtonPlayer.tscn
-res://Prefab/Ball.tscn
 res://Scripts/View/MainView.cs
 res://Scripts/View/SplashView.cs
 res://EXCLUDE_FROM_BUILD_Prototype_Editor/PrototypeView.cs
 res://Prefab/LangStatic.cs
+res://EXCLUDE_FROM_BUILD_Prototype_Editor/PrototypeViewV2.cs
+res://Scenes/SplashScene.tscn
+res://Scenes/MainScene.tscn
+res://Prefab/ButtonPlayer.tscn
+res://Prefab/Ball.tscn
+res://EXCLUDE_FROM_BUILD_Prototype_Editor/Prototype.tscn
+res://EXCLUDE_FROM_BUILD_Prototype_Editor/PrototypeTemplateV2.cs
