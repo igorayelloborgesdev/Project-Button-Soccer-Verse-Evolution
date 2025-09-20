@@ -82,9 +82,7 @@ Project Button Soccer Verse Evolution
 
 ---------------------------------------------------------------------------------------------------
 
-.Desgin Pattern<-
-
-.botão jogar a bola para o alvo
+.botão jogar a bola para o alvo<-
 .botão desviar de oponente
 
 .botão desviar de oponente 1

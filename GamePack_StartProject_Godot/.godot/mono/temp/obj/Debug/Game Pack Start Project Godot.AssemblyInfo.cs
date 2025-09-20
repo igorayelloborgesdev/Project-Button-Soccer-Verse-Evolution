@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Game Pack Start Project Godot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9370190040ed81d8f9265b1acabcb0fbbc5746cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3914f4a32897999b7fef7e784bff12b1e61276e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Game Pack Start Project Godot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Game Pack Start Project Godot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
