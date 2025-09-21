@@ -20,7 +20,7 @@ namespace GamePackStartProjectGodot.EXCLUDE_FROM_BUILD_Prototype_Editor
         }
         public override void _Process(double delta)
         {
-         
+            GD.Print("TESTE");
         }
         public override void _Input(InputEvent @event)
         {            

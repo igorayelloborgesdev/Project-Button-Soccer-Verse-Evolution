@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|d:\\igor\\igor\\igorayelloborges\\projetos\\project button soccer verse evolution\\project-button-soccer-verse-evolution\\gamepack_startproject_godot\\exclude_from_build_prototype_editor\\prototypetemplatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|solutionrelative:exclude_from_build_prototype_editor\\prototypetemplatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|d:\\igor\\igor\\igorayelloborges\\projetos\\project button soccer verse evolution\\project-button-soccer-verse-evolution\\gamepack_startproject_godot\\exclude_from_build_prototype_editor\\prototypebuttonaiv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|solutionrelative:exclude_from_build_prototype_editor\\prototypebuttonaiv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|d:\\igor\\igor\\igorayelloborges\\projetos\\project button soccer verse evolution\\project-button-soccer-verse-evolution\\gamepack_startproject_godot\\exclude_from_build_prototype_editor\\prototypetemplatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|solutionrelative:exclude_from_build_prototype_editor\\prototypetemplatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{878653A4-6E68-4819-8E80-4ED18B7D97E7}|Game Pack Start Project Godot.csproj|d:\\igor\\igor\\igorayelloborges\\projetos\\project button soccer verse evolution\\project-button-soccer-verse-evolution\\gamepack_startproject_godot\\exclude_from_build_prototype_editor\\prototypecontrollerv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeViewV2.cs",
               "ToolTip": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeViewV2.cs",
               "RelativeToolTip": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeViewV2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T20:20:17.853Z",
               "IsPinned": true,
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeControllerV2.cs",
               "ToolTip": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeControllerV2.cs",
               "RelativeToolTip": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeControllerV2.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAawBwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T20:21:28.653Z",
               "IsPinned": true,
@@ -95,8 +95,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T20:44:25.756Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -109,8 +108,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAlwBYAAACrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T22:17:08.502Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -123,18 +121,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T22:39:54.27Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PrototypeButtonAIV2.cs",
               "DocumentMoniker": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeButtonAIV2.cs",
               "RelativeDocumentMoniker": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeButtonAIV2.cs",
               "ToolTip": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeButtonAIV2.cs",
               "RelativeToolTip": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeButtonAIV2.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAtwLIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T00:08:43.429Z",
               "IsPinned": true,
@@ -194,13 +191,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PrototypeTemplateV2.cs",
               "DocumentMoniker": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeTemplateV2.cs",
               "RelativeDocumentMoniker": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeTemplateV2.cs",
               "ToolTip": "D:\\IGOR\\IGOR\\IgorAyelloBorges\\PROJETOS\\Project Button Soccer Verse Evolution\\Project-Button-Soccer-Verse-Evolution\\GamePack_StartProject_Godot\\EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeTemplateV2.cs",
               "RelativeToolTip": "EXCLUDE_FROM_BUILD_Prototype_Editor\\PrototypeTemplateV2.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewCMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwCMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T01:42:01.814Z",
               "IsPinned": true,
