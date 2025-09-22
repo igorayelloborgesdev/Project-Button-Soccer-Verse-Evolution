@@ -1,0 +1,24 @@
+[gd_scene load_steps=5 format=3 uid="uid://cix7412g3cvs8"]
+
+[ext_resource type="PackedScene" uid="uid://bsx1wetao8y0f" path="res://Art/3d/Field.glb" id="1_evmyo"]
+[ext_resource type="Texture2D" uid="uid://blnswjgimolyo" path="res://Art/3d/Field_field.png" id="2_uu7ik"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_e8k0x"]
+shading_mode = 2
+albedo_texture = ExtResource("2_uu7ik")
+metallic_specular = 0.0
+roughness = 0.0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8ftol"]
+albedo_color = Color(0.698039, 0.462745, 0.12549, 1)
+metallic_specular = 0.0
+roughness = 0.0
+
+[node name="Field2" instance=ExtResource("1_evmyo")]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 0, 0)
+
+[node name="Field" parent="." index="0"]
+surface_material_override/0 = SubResource("StandardMaterial3D_e8k0x")
+
+[node name="FieldWood" parent="Field" index="0"]
+surface_material_override/0 = SubResource("StandardMaterial3D_8ftol")

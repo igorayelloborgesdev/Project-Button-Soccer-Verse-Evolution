@@ -1,3 +1,9 @@
+res://Prefab/Floor.tscn
+res://Scenes/GamePlay.tscn
+res://Prefab/Walls.tscn
+res://Prefab/Field.tscn
+res://Prefab/goal_post_1.tscn
+res://EXCLUDE_FROM_BUILD_Prototype_Editor/GamePlay.VoxelGI_data.res
 res://Scenes/SplashScene.tscn
 res://Scenes/MainScene.tscn
 res://Prefab/ButtonPlayer.tscn

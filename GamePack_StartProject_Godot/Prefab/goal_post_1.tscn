@@ -1,0 +1,30 @@
+[gd_scene load_steps=5 format=3 uid="uid://df13gsfls7c6c"]
+
+[ext_resource type="PackedScene" uid="uid://b0wt5mq0nyoqj" path="res://Art/3d/GoalPost1.glb" id="1_eg60d"]
+[ext_resource type="Texture2D" uid="uid://dfloke5kjvyyf" path="res://Art/3d/GoalPost1_GoalNet.png" id="2_myog6"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_eg60d"]
+shading_mode = 2
+diffuse_mode = 1
+albedo_color = Color(0.894118, 0.894118, 0.894118, 1)
+metallic_specular = 0.0
+roughness = 0.0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7w60r"]
+transparency = 1
+blend_mode = 1
+cull_mode = 2
+shading_mode = 2
+diffuse_mode = 1
+albedo_texture = ExtResource("2_myog6")
+metallic_specular = 0.0
+roughness = 0.0
+
+[node name="GoalPost1" instance=ExtResource("1_eg60d")]
+
+[node name="GoalPost_001" parent="." index="0"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.92825, 0)
+surface_material_override/0 = SubResource("StandardMaterial3D_eg60d")
+
+[node name="Net_001" parent="GoalPost_001" index="0"]
+surface_material_override/0 = SubResource("StandardMaterial3D_7w60r")

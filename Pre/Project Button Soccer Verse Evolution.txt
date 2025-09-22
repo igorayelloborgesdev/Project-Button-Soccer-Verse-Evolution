@@ -51,34 +51,6 @@ Project Button Soccer Verse Evolution
 ....Europe
 ....South America
 
-..2003-2010
-...National
-....Europe
-....South America
-....North/ Central America
-....Asia/ Oceania
-....Africa
-...Club
-....Europe
-....South America
-....North/ Central America
-....Asia/ Oceania
-....Africa
-
-..2011-2022
-...National
-....Europe
-....South America
-....North/ Central America
-....Asia/ Oceania
-....Africa
-
-...Club
-....Europe
-....South America
-....North/ Central America
-....Asia/ Oceania
-....Africa
 
 ---------------------------------------------------------------------------------------------------
 
